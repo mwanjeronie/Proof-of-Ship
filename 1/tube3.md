@@ -2,7 +2,7 @@
 
 ## Link to Tube 3.0's GitHub repository 
 
-- [Tube 3.0](https://github.com/mwanjeronie/Proof-of-Ship)
+- [Tube 3.0](https://github.com/mwanjeronie/Tube-3.0-celo-)
 
 ## Team 
 
